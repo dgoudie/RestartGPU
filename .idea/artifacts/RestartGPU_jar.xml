@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RestartGPU:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestartGPU_jar</output-path>
+    <root id="archive" name="RestartGPU.jar">
+      <element id="module-output" name="RestartGPU" />
+    </root>
+  </artifact>
+</component>
